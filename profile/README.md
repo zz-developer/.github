@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+这里是浙江省镇海中学的开发者组织～欢迎在校生和已经毕业的校友加入～
 <!--
 
 **Here are some ideas to get you started:**
